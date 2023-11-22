@@ -1,0 +1,22 @@
+#mynavbar{
+    display: flex;
+    gap: 5rem;
+    font-size: 20px;
+    color: black;
+    justify-content: space-between;
+}
+
+ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    padding: .5em;
+    margin: 0 em;
+
+}
+li{
+    margin: 0 1em;
+}
+li#abc1{
+    margin-left: auto;
+}

@@ -1,0 +1,19 @@
+ 
+.image2{
+    padding-top: 20px;
+    background-image: url("https://i.pinimg.com/564x/79/8f/28/798f282cbda65d9befe1c112b1e3e87c.jpg");
+    background-repeat: no-repeat;
+     height:700px; 
+    background-size:cover;
+    text-align:left;
+    color:black;
+}
+.card2
+{
+    display:flex;
+    justify-content:space-between;
+}
+.space2{
+    display: flex;
+    justify-content:space-between;
+}

@@ -1,0 +1,25 @@
+.itemone
+{
+    /* background-image: url("https://static.vecteezy.com/system/resources/thumbnails/004/697/688/small/curve-light-blue-background-abstract-free-vector.jpg"); */
+    background-image: url("https://media.istockphoto.com/id/1480323231/vector/abstract-yellow-watercolor-background.jpg?s=612x612&w=0&k=20&c=Zz32iLLo2e9nwTHeDDHptjhvMov6Zt0Oej_68viDPK4=");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.itemtwo
+{
+    background-image: url("https://media.istockphoto.com/id/1480323231/vector/abstract-yellow-watercolor-background.jpg?s=612x612&w=0&k=20&c=Zz32iLLo2e9nwTHeDDHptjhvMov6Zt0Oej_68viDPK4=");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  /* background-image: url("https://t4.ftcdn.net/jpg/02/87/11/31/360_F_287113142_8XLkz9kGNKWdvazBEgl8GoymDG5YBsa9.jpg"); */
+  background-image: url("https://images.unsplash.com/photo-1628883328405-34fbe848bed1?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHllbGxvdyUyMHBhc3RlbHxlbnwwfHwwfHx8MA%3D%3D");
+  background-repeat: no-repeat;
+  background-size:cover;
+}

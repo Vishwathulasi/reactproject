@@ -1,0 +1,18 @@
+ 
+.image1{
+    padding-top: 20px;
+    background-image: url("https://img.myloview.com/stickers/books-on-wooden-desk-table-and-abstract-background-education-background-copy-space-back-to-school-700-208585943.jpg");
+    background-repeat: no-repeat;
+     height:700px; 
+    background-size:cover;
+    text-align:left;
+}
+.card1
+{
+    display:flex;
+    justify-content:space-between;
+}
+.space1{
+    display: flex;
+    justify-content:space-between;
+}

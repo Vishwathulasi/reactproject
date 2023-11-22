@@ -1,0 +1,10 @@
+#imagecon{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+}
+#it{
+    display: flex;
+    align-items: center;
+}

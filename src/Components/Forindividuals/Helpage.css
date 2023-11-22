@@ -1,0 +1,78 @@
+.imag5
+{
+    background-image: url("https://dkprodimages.gumlet.io/campaign/cover/EM0031663229736.png?format=webp&w=400&dpr=2.6") ;
+    height: 600px;
+    background-size:cover;
+}
+.left5
+{
+    text-align:right;
+    font-style: oblique;
+    
+}
+.fle5
+{ 
+ background-image: url("https://www.shutterstock.com/image-vector/beautiful-wallpaper-hd-splash-watercolor-600nw-1731530434.jpg");
+ height:100%;
+ width:100%;
+ background-size:cover;
+ background-repeat: no-repeat;
+}
+.fle15
+{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.flei5
+{
+    display:flex;
+    flex-direction: row;
+}
+
+.donate5
+{
+    color:rgb(0, 0, 0);
+    display:flex;
+    flex-direction: row;
+    justify-content:center;
+    font-style: oblique;
+}
+.end5
+{
+    background-color: black;
+    color:rgb(255, 255, 255);
+    display:flex;
+    flex-direction: row;
+    justify-content:flex-end;
+    font-style: oblique;
+}
+.asd5
+{
+    background-color: black;
+    color:whitesmoke;
+    display:flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+}
+.asd25
+{
+    color:whitesmoke;
+    display:flex;
+    flex-direction: row;
+    justify-content:center;
+}
+.sdf5
+{
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+
+}
+.back5
+{
+     
+    border-radius:10000cm;
+    color:rgb(248, 246, 246);
+    font-style: oblique;
+}

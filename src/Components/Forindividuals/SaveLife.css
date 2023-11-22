@@ -1,0 +1,78 @@
+.imag3
+{
+    background-image: url("https://dkprodimages.gumlet.io/campaign/cover/SAM004542572319.png?format=webp&w=400&dpr=2.6") ;
+    height:600px;
+    background-size:cover;
+}
+.left3
+{
+    text-align:right;
+    font-style: oblique;
+    
+}
+.fle3
+{ 
+ background-image: url("https://c4.wallpaperflare.com/wallpaper/947/901/211/orange-red-wallpaper-preview.jpg");
+ height:100%;
+ width:100%;
+ background-size:cover;
+ background-repeat: no-repeat;
+}
+.fle13
+{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.flei3
+{
+    display:flex;
+    flex-direction: row;
+}
+
+.donate3
+{
+    color:rgb(0, 0, 0);
+    display:flex;
+    flex-direction: row;
+    justify-content:center;
+    font-style: oblique;
+}
+.end3
+{
+    background-color: black;
+    color:rgb(255, 255, 255);
+    display:flex;
+    flex-direction: row;
+    justify-content:flex-end;
+    font-style: oblique;
+}
+.asd3
+{
+    background-color: black;
+    color:whitesmoke;
+    display:flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+}
+.asd23
+{
+    color:whitesmoke;
+    display:flex;
+    flex-direction: row;
+    justify-content:center;
+}
+.sdf3
+{
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+
+}
+.back3
+{
+     
+    border-radius:10000cm;
+    color:rgb(248, 246, 246);
+    font-style: oblique;
+}
